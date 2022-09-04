@@ -1,16 +1,18 @@
-## Open Trivia App
+# Open Trivia App
 
-Example Expo Snack
+## Getting Started
 
-Docs for embedding a snack demo located [here](https://github.com/expo/snack/blob/main/docs/embedding-snacks.md)
+### Minimum Requirements
 
-<div
-  data-snack-id="@react-navigation/basic-scrollview-tab-v3"
-  data-snack-platform="web"
-  data-snack-preview="true"
-  data-snack-theme="light"
-  data-snack-loading="lazy"
-  style="overflow:hidden;background:#fafafa;border:1px solid rgba(0,0,0,.08);border-radius:4px;height:505px;width:100%">
-</div>
+- [Node](https://nodejs.org/en/download/) installed recommended.
+- [Expo CLI](https://docs.expo.dev/archived/expo-cli/) installed
+  - `npm install -g expo-cli`
+  - verify with `expo --version`
 
-<script async src="https://snack.expo.dev/embed.js"></script>
+* [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed
+
+### Recommended
+
+- [XCode](https://developer.apple.com/xcode/) and [Xcode Command Line Tools](https://www.freecodecamp.org/news/install-xcode-command-line-tools/)
+- [Android Studio](https://developer.android.com/studio/)
+- [Expo Go](https://expo.dev/expo-go) installed on your phone
